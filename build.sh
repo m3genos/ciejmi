@@ -10,3 +10,6 @@ yarn react-snap
 # sleep 2
 
 # ntl deploy --prod
+
+cp -r build docs
+rm -rf build
