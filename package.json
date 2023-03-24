@@ -5,7 +5,7 @@
   "homepage": "https://ciejmi.exatorial.com",
   "scripts": {
     "start": "react-scripts start",
-    "build": "./build.sh",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
